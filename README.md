@@ -1,2 +1,2 @@
 # MemoryGame
-[Try me]( http://sujinthan.github.io/MemoryGame)
+[Try me](http://sujinthan.github.io/memorygame)
